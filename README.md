@@ -23,8 +23,7 @@ Now with ARKit and an iPhone with a front-facing True Depth camera you can track
 
 
 ### Required Software To Be Installed: 
-* Fuse downloaded from here: https://www.adobe.com/products/fuse.html
-* Need to create a mixamo account (Its free!): https://www.mixamo.com/#/
+* Blender here: https://www.blender.org/
 * MakeHuman downloaded here: http://www.makehumancommunity.org/
 * Maya student version download here: https://www.autodesk.com/education/free-software/maya
 * Unreal downloaded here: https://www.unrealengine.com/en-US/get-now/agnostic
