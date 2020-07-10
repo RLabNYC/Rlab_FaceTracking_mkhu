@@ -55,7 +55,7 @@ This tutorial requires some knowledge of using 3D software and game engine mecha
 First steps you need to have the LiveLink app downloaded onto your iPhone before you start this tutorial. Then download or clone this repository somewhere on your computer. 
 There are multiple ways to have a fully rigged character and have a facial rig set up in minutes. 
 
-**1. Exporting blendshapes from Fuse and importing into Maya**
+**1. Exporting blendshapes from Makehuman and importing into Blender into Maya**
   - **Getting the Blendshapes out of MakeHuman/Blender:**
      - The MakeHuman and Blender workflow integrates these two open source software platforms to extract the blendshapes associated with all of the parametric sliders for crafting your avatar.  You’ll need to install two plugins to MakeHuman and one to Blender. Both are free downloads and have robust communities.
   - **Editing Blendshapes in Maya from MakeHuman:**
