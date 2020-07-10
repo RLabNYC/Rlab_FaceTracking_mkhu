@@ -212,9 +212,6 @@ If you need further assistance, refer to this documentation from Unreal: https:/
 
 Once it is imported into Unreal. You should be able to open up the skeletal mesh asset and see the renamed blendshapes. Test the sliders to see if they work on the model. 
 
-### Fuse example
-![unreal fuse blendshapes](https://i.ibb.co/6R2XJRH/Annotation-2020-02-11-105608.png)
-
 ### Makehuman example
 ![ unreal mkhuman blendshapes](https://i.ibb.co/m8K1n8s/Annotation-2020-02-28-115732.png)
 
