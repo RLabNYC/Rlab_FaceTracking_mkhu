@@ -122,7 +122,7 @@ attr_dict = { 'brow_outer_down_left': 'eyeBlinkLeft',
                 'lips_mid_lower_up_right': 'mouthUpperUpRight',
                 'brow_squeeze': 'browInnerUp'  }
 
-node_name = '' # Name of the blendshapes
+node_name = '' # Name of Blendshape_whatever blendshape
 rename_morph_targets( node_name, attr_dict )
 ```
 
