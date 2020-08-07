@@ -10,11 +10,11 @@ Once you import the model in Maya you should scale the bone joint size. In the t
 Then switch the workspace mode to sculpting this will layout the blendshapes in a easier way to see. 
 
   - **Editing Blendshapes in Maya from MakeHuman:**
-  - Once you make the switch, you will see a bunch of orange targets, these are the blendshapes. You can toggle between how strong you want each target to be for animation purposes. Itís basically like a light dimmer.
+  - Once you make the switch, you will see a bunch of orange targets, these are the blendshapes. You can toggle between how strong you want each target to be for animation purposes. It‚Äôs basically like a light dimmer.
 
 ![makehuman blendshapes](https://i.ibb.co/YfqrB1Z/Autodesk-Maya-2018-Educational-Version-untitled-6-23-2020-8-33-46-PM.png)
 
-When you open up the model in maya, you should see one blendshape group, in this example its called ìBody_ncl1_4î rename it to **Blendshape_mesh**. 
+When you open up the model in maya, you should see one blendshape group, in this example its called ‚ÄúBody_ncl1_4‚Äù rename it to **Blendshape_mesh**. 
 
 ![blend shape group](https://i.ibb.co/D9QDx1n/Annotation-2020-02-27-110918.png)
 
@@ -25,7 +25,7 @@ When you open up the model in maya, you should see one blendshape group, in this
 
 Be sure to rename Brow_squeeze = **browInnerUp**  This one is already merged! But just needs to be a different name so it can work with Apple!!
 
-In maya, you want to locate these two pairs of blendshapes and merge them. In order to merge the two targets correctly you will need to select them both, for example ìmouth_narrow_left and mouth_narrow_rightî and drag the toggles all the way to the right and right click into them and hit merge.  Once they are merged you need to look for it again and there will only be one name, select it and rename it mouthPucker, it has to be exactly spelled like that.  Repeat the steps for cheek_balloon_left and cheek_balloon_right. 
+In maya, you want to locate these two pairs of blendshapes and merge them. In order to merge the two targets correctly you will need to select them both, for example **‚Äúmouth_narrow_left and mouth_narrow_right‚Äù** and drag the toggles all the way to the right and right click into them and hit merge.  Once they are merged you need to look for it again and there will only be one name, select it and rename it **mouthPucker**, it has to be exactly spelled like that.  Repeat the steps for **cheek_balloon_left** and **cheek_balloon_right**. 
 
 ![merge targets](https://i.ibb.co/jwNDpVd/Annotation-2020-02-27-125500.png)
 
